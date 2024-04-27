@@ -1,0 +1,14 @@
+D:\SkillBox\C#\projects\task_arrays\task_arrays\bin\Debug\net7.0\task_arrays.exe
+D:\SkillBox\C#\projects\task_arrays\task_arrays\bin\Debug\net7.0\task_arrays.deps.json
+D:\SkillBox\C#\projects\task_arrays\task_arrays\bin\Debug\net7.0\task_arrays.runtimeconfig.json
+D:\SkillBox\C#\projects\task_arrays\task_arrays\bin\Debug\net7.0\task_arrays.dll
+D:\SkillBox\C#\projects\task_arrays\task_arrays\bin\Debug\net7.0\task_arrays.pdb
+D:\SkillBox\C#\projects\task_arrays\task_arrays\obj\Debug\net7.0\task_arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\SkillBox\C#\projects\task_arrays\task_arrays\obj\Debug\net7.0\task_arrays.AssemblyInfoInputs.cache
+D:\SkillBox\C#\projects\task_arrays\task_arrays\obj\Debug\net7.0\task_arrays.AssemblyInfo.cs
+D:\SkillBox\C#\projects\task_arrays\task_arrays\obj\Debug\net7.0\task_arrays.csproj.CoreCompileInputs.cache
+D:\SkillBox\C#\projects\task_arrays\task_arrays\obj\Debug\net7.0\task_arrays.dll
+D:\SkillBox\C#\projects\task_arrays\task_arrays\obj\Debug\net7.0\refint\task_arrays.dll
+D:\SkillBox\C#\projects\task_arrays\task_arrays\obj\Debug\net7.0\task_arrays.pdb
+D:\SkillBox\C#\projects\task_arrays\task_arrays\obj\Debug\net7.0\task_arrays.genruntimeconfig.cache
+D:\SkillBox\C#\projects\task_arrays\task_arrays\obj\Debug\net7.0\ref\task_arrays.dll
